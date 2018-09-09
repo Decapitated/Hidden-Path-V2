@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: dc09cd46091e4fd4599c401c9bd3ec14
+timeCreated: 1534383012
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mushroom
+  fontNames:
+  - Mushroom
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
